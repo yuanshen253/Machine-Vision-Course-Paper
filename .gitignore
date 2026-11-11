@@ -1,0 +1,5 @@
+/dataset/
+**/__pycache__/
+*.py[cod]
+/runs/**/train_batch*.jpg
+/runs/**/val_batch*.jpg
